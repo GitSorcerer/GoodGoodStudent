@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-Mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringMvc/pom.xml" />
+        <option value="$PROJECT_DIR$/gaoh-spring-boot-starter/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SpringMvc" />
         <module name="Spring-Mybatis" />
-        <module name="GoodGoodStudent" />
+        <module name="gaohstart" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="GoodGoodStudent" options="-parameters" />
       <module name="Spring-Mybatis" options="-parameters" />
+      <module name="SpringMvc" options="" />
     </option>
   </component>
 </project>

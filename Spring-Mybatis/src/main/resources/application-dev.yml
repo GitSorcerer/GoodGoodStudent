@@ -16,3 +16,8 @@ logging:
   level:
     com.gaoh: debug
     org.mybatis.spring: debug
+
+
+stu:
+  age: 24
+  name: gaoh
